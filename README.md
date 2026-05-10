@@ -81,6 +81,6 @@ I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science student at **Washingt
 
 [![Website](https://img.shields.io/badge/Website-agopalareddy.github.io-3b82f6?style=flat&logo=googlechrome&logoColor=white)](https://agopalareddy.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agopalareddy-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agopalareddy/)
-[![Email](https://img.shields.io/badge/Email-a.gopalareddy@wustl.edu-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:a.gopalareddy@wustl.edu)
+[![Email](https://img.shields.io/badge/Email-adurs2002@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adurs2002@gmail.com)
 [![CV](https://img.shields.io/badge/CV-PDF-4F46E5?style=flat&logo=adobeacrobatreader&logoColor=white)](https://agopalareddy.github.io/files/reddy_cv.pdf)
 [![Schedule](https://img.shields.io/badge/Schedule-Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)](https://calendar.app.google/rbrkCokvTAM6tb7i7)
