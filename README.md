@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science student at **Washington University in St. Louis**, graduating May 2026. My work sits at the intersection of machine learning, data engineering, and healthcare AI.
+I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science graduate from **Washington University in St. Louis** (May 2026). My work sits at the intersection of machine learning, data engineering, and healthcare AI.
 
 ---
 
