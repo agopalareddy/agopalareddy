@@ -2,12 +2,13 @@
 
 I'm **Aadarsha Gopala Reddy** — a software and machine learning engineer based in St. Louis, MO. I completed my M.S. in Computer Science at **Washington University in St. Louis** in May 2026.
 
-I am currently interning as a Mobile Application Developer at **Ignite Performance Consulting**, building and launching an athlete coaching mobile app. **I am actively seeking full-time opportunities in Data Engineering / Data Science and Software / Machine Learning / AI Engineering.**
+I build native and cross-platform applications, data systems, and applied machine learning pipelines. Currently interning as a Mobile Application Developer at **Ignite Performance Consulting**, and **actively seeking full-time opportunities in Software Engineering, Mobile/App Development, Data Engineering, and ML/AI Systems.**
 
 ---
 
 ### 🔭 Experience & Technical Background
 
+- **Software & Systems Engineering:** Built and published **[Dolphin File Converter](https://github.com/agopalareddy/dolphin-file-converter)** (native KDE Dolphin service menu extension, Qt desktop application, and CLI tool powered by FFmpeg & LibreOffice) and **[Umm](https://github.com/agopalareddy/umm)** (Android voice keyboard and accessibility dictation assistant using real-time LLM cleanup via OpenRouter).
 - **Mobile Engineering:** Interning at Ignite Performance Consulting, owning the development and launch of a cross-platform React Native athlete coaching app backed by Next.js, Express/MongoDB, and Rasa.
 - **Applied ML Research:** Completed Master's thesis benchmarking six model families (including DANN and GRU-DANN) on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment across vehicle types.
 - **AI Engineering:** Interned at Crittero, Inc., building recommendation frameworks (TensorFlow/Keras) achieving 80% accuracy across seven user personas and behavioral time-series simulation systems (TypeScript/Python).
@@ -32,6 +33,24 @@ I am currently interning as a Mobile Application Developer at **Ignite Performan
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+**Apps & Systems**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 **ML & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -53,35 +72,28 @@ I am currently interning as a Mobile Application Developer at **Ignite Performan
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Web & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
-
 ---
 
 ### 🚀 Featured Projects
 
+#### 📱 Software & Applications
+
 | Project | Description | Tech |
-|---------|-------------|------|
-| [**Vehicle-Agnostic Driving Signatures**](https://doi.org/10.7936/g95n-fv35) | Master's thesis benchmarking six model families (logistic regression, RF, XGBoost, MLP, DANN, GRU-DANN) under leave-one-participant-out CV on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment. | Python, PyTorch, Deep Learning, Domain Adaptation |
+|---|---|---|
+| [**Umm: Voice Typing**](https://github.com/agopalareddy/umm) | Privacy-focused Android voice keyboard and floating dictation assistant that transcribes speech and removes filler words in real time via OpenRouter LLMs. | Kotlin, Android SDK, Jetpack Compose, OpenRouter API, Keystore |
+| [**Dolphin File Converter**](https://github.com/agopalareddy/dolphin-file-converter) | Native KDE Dolphin service menu extension, Qt desktop application, and CLI tool for converting audio, video, images, and documents via FFmpeg & LibreOffice. | Python, PySide6, Qt6, KDE, Linux CLI, FFmpeg, ImageMagick |
 | [**Blink Morse Decoder**](https://github.com/agopalareddy/blink-morse-app) | Accessibility-focused Android app translating eye blinks to Morse code using real-time facial landmark tracking and bio-vitals. | Kotlin, Android, CameraX, SmartSpectra SDK |
+| [**Tales We Weave**](https://github.com/agopalareddy/tales-we-weave) | Interactive branching AI narrative platform with zoomable SVG story trees, using Gemini text and fal.ai image generation. | Vue.js 3, Node.js, Express, MongoDB, Gemini API, fal.ai |
+
+#### 🔬 Machine Learning & Data Engineering
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Vehicle-Agnostic Driving Signatures**](https://doi.org/10.7936/g95n-fv35) | Master's thesis benchmarking six model families (logistic regression, RF, XGBoost, MLP, DANN, GRU-DANN) under leave-one-participant-out CV on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment. | Python, PyTorch, Deep Learning, Domain Adaptation |
 | [**Red-Blue Visual Auto Defender**](https://github.com/agopalareddy/visual-jailbreak-defense) | Automated teaming pipeline generating visual prompt-injection jailbreaks on VLMs and generating rule-based OCR Python defenses. | Python, Gemma-3, Transformers, OpenCV, OCR |
-| [**DRL Datacenter Cooling**](https://github.com/agopalareddy/datacenter-cooling-rl) | Deep RL (DDQN, PPO, SAC) with EnergyPlus simulation for HVAC optimization (35.8% energy efficiency gain). | Python, PyTorch, EnergyPlus, Sinergym |
 | [**MLB Statcast Pipeline**](https://github.com/agopalareddy/mlb-statcast-pipeline) | Real-time lambda-architecture pipeline combining Airflow batch ingestion with Kafka/Spark streaming and Streamlit dashboard. | Python, Airflow, Snowflake, Kafka, Spark, Streamlit |
 | [**Multimodal Alzheimer's Prediction**](https://github.com/agopalareddy/multimodal-alzheimers-prediction) | Multimodal fusion approach combining brain MRI (CNNs) and tabular clinical data (XGBoost/RF) from the OASIS-1 dataset. | Python, TensorFlow, Keras, scikit-learn, XGBoost |
-| [**Tales We Weave (Interactive Storybook)**](https://github.com/agopalareddy/tales-we-weave) | Branching AI narrative platform with zoomable SVG story trees, using Gemini text and fal.ai image generation. | Vue.js 3, Node.js, Express, MongoDB, Gemini API, fal.ai |
+| [**DRL Datacenter Cooling**](https://github.com/agopalareddy/datacenter-cooling-rl) | Deep RL (DDQN, PPO, SAC) with EnergyPlus simulation for HVAC optimization (35.8% energy efficiency gain). | Python, PyTorch, EnergyPlus, Sinergym |
 
 → [All projects](https://agreddy.com/projects/) / [GitHub Repositories](https://github.com/agopalareddy?tab=repositories)
 
