@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science graduate from **Washington University in St. Louis** (May 2026). My work sits at the intersection of machine learning, data engineering, and healthcare AI.
+I'm **Aadarsha Gopala Reddy** — a software and machine learning engineer based in St. Louis, MO. I completed my M.S. in Computer Science at **Washington University in St. Louis** in May 2026.
+
+I am currently interning as a Mobile Application Developer at **Ignite Performance Consulting**, building and launching an athlete coaching mobile app. **I am actively seeking full-time opportunities in Data Engineering / Data Science and Software / Machine Learning / AI Engineering.**
 
 ---
 
-### 🔭 Background & Experience
+### 🔭 Experience & Technical Background
 
-- **Master's Thesis:** Benchmarked six model families (including DANN and GRU-DANN) on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment across vehicle types.
-- **AI Engineering:** Interned at Crittero, Inc., building recommendation frameworks (TensorFlow/Keras) and persona-based social media simulation systems (TypeScript/Python).
-- **Teaching:** Graduate TA for *CSE 5114: Data Manipulation & Management at Scale* — supporting graduate coursework spanning Snowflake, SQL, Airflow, Spark, Kafka, and Flink.
-- **Student Success:** Graduate Assistant at the Taylor Family Center, managing event programming, communication, and FERPA-compliant student engagement analytics.
-- **Graduate Governance:** VP of the GPC Chamber (GPSC), serving on university advisory boards for student affairs & career engagement.
+- **Mobile Engineering:** Interning at Ignite Performance Consulting, owning the development and launch of a cross-platform React Native athlete coaching app backed by Next.js, Express/MongoDB, and Rasa.
+- **Applied ML Research:** Completed Master's thesis benchmarking six model families (including DANN and GRU-DANN) on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment across vehicle types.
+- **AI Engineering:** Interned at Crittero, Inc., building recommendation frameworks (TensorFlow/Keras) achieving 80% accuracy across seven user personas and behavioral time-series simulation systems (TypeScript/Python).
+- **Data Engineering & Systems:** Graduate TA for *CSE 5114: Data Manipulation & Management at Scale*, supporting graduate coursework across Snowflake, SQL, Airflow, Spark, Kafka, and Flink streaming/batch pipelines.
+- **IoT & Telemetry:** Interned at Lab714, building AWS ingestion pipelines and analytics dashboards for continuous environmental sensor streams, alongside a Figma-to-React device interface.
 
 ---
 
@@ -19,37 +21,28 @@ I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science graduate from **Washi
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**ML & Data**
+**ML & Data Science**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1579B0?style=flat&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-
-**Web & Systems**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 
 **Data Engineering**
 
@@ -60,17 +53,34 @@ I'm **Aadarsha Gopala Reddy** — an M.S. Computer Science graduate from **Washi
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
+**Web & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Vehicle-Agnostic Driving Signatures**](https://openscholarship.wustl.edu/eng_etds/1341/) | Master's thesis benchmarking six model families (logistic regression, RF, XGBoost, MLP, DANN, GRU-DANN) under leave-one-participant-out CV on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment. | Python, PyTorch, Deep Learning, Domain Adaptation |
+| [**Vehicle-Agnostic Driving Signatures**](https://doi.org/10.7936/g95n-fv35) | Master's thesis benchmarking six model families (logistic regression, RF, XGBoost, MLP, DANN, GRU-DANN) under leave-one-participant-out CV on 26.9K participant-weeks of naturalistic driving data to predict cognitive impairment. | Python, PyTorch, Deep Learning, Domain Adaptation |
 | [**Blink Morse Decoder**](https://github.com/agopalareddy/blink-morse-app) | Accessibility-focused Android app translating eye blinks to Morse code using real-time facial landmark tracking and bio-vitals. | Kotlin, Android, CameraX, SmartSpectra SDK |
-| [**Red-Blue Visual Auto Defender**](https://github.com/agopalareddy/CSE5519-Project) | Automated teaming pipeline generating visual prompt-injection jailbreaks on VLMs and generating rule-based OCR Python defenses. | Python, Gemma-3, Transformers, OpenCV, OCR |
-| [**DRL Datacenter Cooling**](https://github.com/agopalareddy/CSE510A_Datacenter_Cooling) | Deep RL (DDQN, PPO, SAC) with EnergyPlus simulation for HVAC optimization (35.8% energy efficiency gain). | Python, PyTorch, EnergyPlus, Sinergym |
-| [**MLB Statcast Pipeline**](https://github.com/agopalareddy/CSE-5114-Project) | Real-time lambda-architecture pipeline combining Airflow batch ingestion with Kafka/Spark streaming and Streamlit dashboard. | Python, Airflow, Snowflake, Kafka, Spark, Streamlit |
+| [**Red-Blue Visual Auto Defender**](https://github.com/agopalareddy/visual-jailbreak-defense) | Automated teaming pipeline generating visual prompt-injection jailbreaks on VLMs and generating rule-based OCR Python defenses. | Python, Gemma-3, Transformers, OpenCV, OCR |
+| [**DRL Datacenter Cooling**](https://github.com/agopalareddy/datacenter-cooling-rl) | Deep RL (DDQN, PPO, SAC) with EnergyPlus simulation for HVAC optimization (35.8% energy efficiency gain). | Python, PyTorch, EnergyPlus, Sinergym |
+| [**MLB Statcast Pipeline**](https://github.com/agopalareddy/mlb-statcast-pipeline) | Real-time lambda-architecture pipeline combining Airflow batch ingestion with Kafka/Spark streaming and Streamlit dashboard. | Python, Airflow, Snowflake, Kafka, Spark, Streamlit |
+| [**Multimodal Alzheimer's Prediction**](https://github.com/agopalareddy/multimodal-alzheimers-prediction) | Multimodal fusion approach combining brain MRI (CNNs) and tabular clinical data (XGBoost/RF) from the OASIS-1 dataset. | Python, TensorFlow, Keras, scikit-learn, XGBoost |
 | [**Tales We Weave (Interactive Storybook)**](https://github.com/agopalareddy/tales-we-weave) | Branching AI narrative platform with zoomable SVG story trees, using Gemini text and fal.ai image generation. | Vue.js 3, Node.js, Express, MongoDB, Gemini API, fal.ai |
 
 → [All projects](https://agreddy.com/projects/) / [GitHub Repositories](https://github.com/agopalareddy?tab=repositories)
